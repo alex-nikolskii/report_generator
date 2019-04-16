@@ -1,0 +1,2 @@
+fee = 1000#
+screen check = works!#

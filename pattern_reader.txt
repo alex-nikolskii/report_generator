@@ -1,0 +1,16 @@
+Report:
+
+{{Price|40-c-рубль}}#
+{{Price|40-r-доллар}} {{read}} {{read}}#
+lalala {{Number|20-c}}#
+{{read}}    {{books|30-l}}    {{Price|20-c}}#
+{{fee|15-c-pears}}#
+{{Hoho|
+20-
+c-
+honik}}#
+!Anything!
+
+Привет, я есть {{Hoho}} #
+
+!!{{screen check}}

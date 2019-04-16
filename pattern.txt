@@ -1,0 +1,5 @@
+table name: Годовой отчет #
+table columns: ФИО|str-20-c-lala; тариф|str; Счет|int-20-c-рубли; Пол|str;
+Стоимость|int-20-c#
+group: fields|Тариф; Счет data|sum; Стоимость#
+filter: Тариф = Безлимит#
